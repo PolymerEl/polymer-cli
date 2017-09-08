@@ -2,6 +2,7 @@
 
 ## Unreleased
 <!-- Add new, unreleased items here. -->
+- Added `js-ignore` option for skipping files in js minification process.
 
 ## v1.5.4 [08-31-2017]
 - Upgraded web-component-tester to v6.1.5 to address IE11 issues.
